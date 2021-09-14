@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">BendaApp</string>
+    <string name="name_txt">הכנס את שמך</string>
+    <string name="continue_txt">המשך</string>
+    <string name="welcome_txt">ברוכים הבאים</string>
+    <string name="play_txt">בחר מספר בין 1-4</string>
+    <string name="input_not_valid">הכנס מספר תקין בין 1 ל-4</string>
+    <string name="mail_to_txt">אל :</string>
+    <string name="mail_subject">נושא</string>
+    <string name="mail_Message">תוכן ההודעה</string>
+    <string name="send_btn_txt">שלח</string>
+    <string name="my_mail_txt">Noybd95@gmail.com</string>
+    <string name="title_email_txt">יש למלא את שם מלא, מס נייד ואת בעיית המזיקים עמה אתם מתמודדים</string>
+    <string name="bye_app_txt">תודה שיצרתם עמנו קשר! נחזור אליכם בהקדם ! המשך יום נעים</string>
+    <string name="no_email_txt">אין ללקוח איימל מותקן בנייד</string>
+    <string name="toast_name">לא הוכנס שם !</string>
+
+</resources>

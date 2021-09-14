@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/seclayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/image_6483441"
+    android:orientation="vertical"
+    android:padding="18dp"
+    android:layout_gravity="center"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:id="@+id/welcome_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:text="@string/welcome_txt"
+        android:textAlignment="center"
+        android:textColor="#090808"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/name_out_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/playtxt_id"
+        android:layout_width="match_parent"
+        android:layout_height="69dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/play_txt"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/inputdata_id"
+        android:layout_width="166dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:ems="10"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/sendbtn_id"
+        android:layout_width="113dp"
+        android:layout_height="39dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/rounded_corners"
+        android:backgroundTint="#FFFFFF"
+        android:onClick="passNum"
+        android:text="@string/continue_txt"
+        android:textSize="12sp" />
+
+</LinearLayout>

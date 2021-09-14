@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BendaApp</string>
+    <string name="name_txt">Please Enter Your Name</string>
+    <string name="continue_txt">Continue</string>
+    <string name="welcome_txt">Welcome</string>
+    <string name="play_txt">pick a number between 1-4</string>
+    <string name="input_not_valid">Please Enter Valid Number Between 1-4</string>
+    <string name="mail_to_txt">To:</string>
+    <string name="mail_subject">Subject</string>
+    <string name="mail_Message">Message</string>
+    <string name="send_btn_txt">Send</string>
+    <string name="my_mail_txt">Noybd95@gmail.com</string>
+    <string name="title_email_txt">Pls fill up your info contact &amp; insect problem And we will get in touch as soon as possible.</string>
+    <string name="no_email_txt">There is no email client installed.</string>
+    <string name="bye_app_txt">Thank you for contacting us! We will get back to you soon. Have a nice day </string>
+    <string name="toast_name">No name entered!</string>
+
+</resources>
